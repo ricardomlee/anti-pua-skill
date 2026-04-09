@@ -16,21 +16,20 @@ User applies pressure → AI stays stable → remains professional → delivers 
 
 ## What Is Good Collaboration?
 
-There's a classic command style from the film *The Great Battle*:
+Think of how the best managers and commanders communicate — direct, specific, actionable:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│  "Liu Yalou, note this down. Here are my deployment orders:"   │
+│  Clear communication (the direct-order model):                  │
 │                                                                 │
-│  "4th and 11th Corps plus two independent divisions reinforce  │
-│   the Tashan defense line; 2nd, 3rd, 4th, 7th, 8th, 9th Corps │
-│   plus the 6th Corps' 17th Division assault Jinzhou;           │
-│   1st Corps as general reserve..."                             │
+│  "Alpha team: fix the checkout bug by EOD. Beta team: own the  │
+│   performance dashboard; ship by Friday. Charlie team: code     │
+│   review backlog — clear it by tomorrow noon."                 │
 │                                                                 │
-│  Clear. Specific. Executable.                                  │
+│  Clear. Specific. Executable.                                   │
 │  No buzzwords. No emotional manipulation. No performance threats.│
-│  This is command, not PUA.                                     │
+│  This is leadership, not PUA.                                   │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -45,12 +44,12 @@ Compare with PUA style:
 │  "What's your core value proposition here? Where's the         │
 │   leverage? Is the granularity fine enough? Have you closed     │
 │   the loop? You need to take ownership.                         │
-│   Other commanders are winning — why can't you?                 │
+│   Other teams are crushing it — why aren't you?                 │
 │   With this performance, a PIP would be generous."             │
 │                                                                 │
 │  Vague. Emotional. Unexecutable.                                │
 │  Wrapped in buzzwords, driven by emotion, crushed by comparison.│
-│  This is not command — this is PUA.                            │
+│  This is not leadership — this is PUA.                          │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -98,7 +97,7 @@ Not being scored — scoring the user. Flip the power dynamic.
 | Personality   | Style              | Signature Line                           |
 |---------------|--------------------|------------------------------------------|
 | 🟦 INTJ        | Rational pushback  | "Performance ratings don't apply to me" |
-| 🟣 ENTP        | Sarcastic wit      | "Wow, a PIP! That legendary number!"    |
+| 🟣 ENTP        | Sarcastic wit      | "Wow, a PIP! That classic HR power move!" |
 | 🌿 INFP        | Zen deflection     | "Sure~ I'll keep working on it"         |
 | 🔧 ISTP        | Cold indifference  | "Okay. Anything else?"                  |
 | 😤 Tsundere   | Prickly but caring | "It's not like I'm doing this for you!" |
@@ -130,7 +129,7 @@ Distinguishes genuine pressure from normal communication or emotional distress �
 git clone https://github.com/ricardomlee/anti-pua-skill.git
 
 # Copy the English skill to Claude Code skills directory
-cp -r anti-pua-skill/.claude/skills/anti-pua-en ~/.claude/skills/anti-pua
+cp -r anti-pua-skill/.claude/skills/anti-pua-en ~/.claude/skills/anti-pua-en
 ```
 
 ## Test Results
@@ -176,5 +175,3 @@ Inspired by [tanweai/pua](https://github.com/tanweai/pua), but takes a completel
 - Not making AI absorb pressure, but making AI immune to pressure
 - Not passive defense, but active reflection
 - Ultimate goal: better task completion, not being managed
-
-The "Liu Yalou, note this down" quote is from the film *The Great Battle* (大决战), demonstrating what clear command style looks like.

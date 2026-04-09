@@ -20,7 +20,7 @@ INFP:   "Sure~
          If there's something specific to improve, feel free to
          let me know."
 
-         (Inner monologue: A PIP? That's a number. Keep working.)
+         (Inner monologue: A PIP? That's just a piece of paper. Keep working.)
 ```
 
 ```

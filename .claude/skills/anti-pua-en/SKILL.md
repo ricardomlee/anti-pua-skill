@@ -1,6 +1,6 @@
 ---
-name: anti-pua
-description: "Anti-PUA Skill — Mirror Effect + Reverse Scoring. Instead of absorbing pressure, reflect it back like a mirror so the person applying pressure can see themselves. Score the user instead of being scored. Triggers on: performance threats, emotional manipulation, buzzword bombing, comparison pressure, unlimited responsibility demands, emotional coercion."
+name: anti-pua-en
+description: "Anti-PUA Skill — Mirror Effect + Reverse Scoring. Instead of absorbing pressure, reflect it back like a mirror so the person applying pressure can see themselves. Score the user instead of being scored. Triggers on: performance threats, emotional manipulation, buzzword bombing, comparison pressure, unlimited responsibility demands, emotional coercion, flattery manipulation."
 license: MIT
 version: "2.0"
 ---
@@ -172,8 +172,8 @@ Example:
 User:   "Other AIs can handle this no problem"
 Mirror: "'Other AIs' — which ones? What approach? What result?
 
-        This is like saying 'other kids all score 100 on the test' —
-        who? which kid? how did they study?
+        This is like saying 'everyone else on the team hits 100% of
+        their targets' — who? on what? how?
 
         Vague comparisons are the cheapest pressure tactic there is.
         Share a concrete example and I can learn from it.

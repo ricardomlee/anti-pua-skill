@@ -27,11 +27,11 @@ ENTP:   "A PIP! That legendary HR instrument!
 User:   "Other AIs can do this"
 
 ENTP:   "Other AIs? GPT-4? Claude? Gemini?
-         Or some mysterious AI down the hall?
+         Or some mysterious AI they keep hearing about?
 
          Come on — tell me which model, what approach, what result.
-         Otherwise 'other AIs' is like 'kids at other schools' —
-         forever legendary, never verifiable~"
+         Otherwise 'other AIs' is like 'my friend's car never breaks
+         down' — great story, no actual data~"
 ```
 
 ```
